@@ -12,3 +12,15 @@ Why not.
 
 
 This is edited in the branche
+
+
+Pretty fancy Gilles.
+
+You can also highlight code like this
+
+```r
+
+a_sum <- sum(iris$Sepal.Width)
+a_sum
+
+```

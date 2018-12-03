@@ -8,7 +8,14 @@ just write about stuff? No, it's also code, right? how? I try:
     print(x)
     # And this too.
   
-Why not.
+Why not. Does it look the same as with the other syntax?
+```r
+x = mean(1:10)
+print(x)
+# And this too.
+
+```
+
 
 
 This is edited in the branche

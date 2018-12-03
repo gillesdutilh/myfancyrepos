@@ -24,3 +24,5 @@ a_sum <- sum(iris$Sepal.Width)
 a_sum
 
 ```
+
+There you see how ugly <- is :)
